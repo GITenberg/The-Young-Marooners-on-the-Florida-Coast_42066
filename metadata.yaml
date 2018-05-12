@@ -1,0 +1,42 @@
+_repo: The-Young-Marooners-on-the-Florida-Coast_42066
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+covers:
+- cover_type: archival
+  image_path: 42066-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Goulding, F. R. (Francis Robert)
+    alias: Goulding, Francis Robert
+    birthdate: 1810
+    deathdate: 1881
+    gutenberg_agent_id: '41506'
+    url: http://www.gutenberg.org/2009/agents/41506
+description: ''
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Florida -- Juvenile fiction'
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Survival -- Juvenile fiction'
+- !lcsh 'Tampa Bay (Fla.) -- Juvenile fiction'
+- !lcsh 'Robinsonades'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Florida -- Description and travel -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+title: The Young Marooners on the Florida Coast
+url: http://www.gutenberg.org/ebooks/42066
